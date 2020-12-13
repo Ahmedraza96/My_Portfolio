@@ -1,5 +1,5 @@
 
-![Alt text]() / ![](portfolio.gif)
+![](portfolio.gif)
 
 
 
